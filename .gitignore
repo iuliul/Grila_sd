@@ -83,6 +83,7 @@
 # *.iml
 # *.ipr
 
+
 # CMake
 cmake-build-*/
 
@@ -154,3 +155,6 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij
+
+.DS_Store
+cmake-build-debug
